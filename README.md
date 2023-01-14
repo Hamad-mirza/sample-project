@@ -1,2 +1,2 @@
 # sample-project
-This is tech hive
+This is Tech Hive
